@@ -187,8 +187,15 @@ Insights:
 (iii) Star Power: Understanding the most frequently featured actors can help Netflix leverage star power in marketing and promotional efforts. Shows with popular actors can be highlighted to attract viewers.
 
 
-
-
+Presentation Power (20 pts):
+Prepare a short pitch deck presentation to showcase your work:
+Introduce the dataset and your goals.
+Briefly explain the import process and the interesting thing you found.
+Share the 2 cool facts you discovered.
+Discuss your questions, SQL queries, and what you learned.
+Present your charts and explain their meaning.
+Briefly summarise your project.
+https://gamma.app/docs/Unveiling-Insights-A-Journey-Through-Netflix-Movies-Data-flkuyun05viyb5l?mode=doc
 
 
 
